@@ -1,9 +1,6 @@
-### Hi there 🤘, My name is Ivan
+# Welcome to My GitHub ✨
 
-## I'm a FrontEnd Developer
+- 👋 Hi, I`m Ivan
 - 🤝 I’m looking to collaborate on interesting international projects
 - 🚲 I like to ride a bike
-- 📫 Connect with me: ✉mail: grosheff.ivan@gmail.com ✈telegram: @Hrosh_ev
-
-<br />
-<br />
+- 📫 How to reach me: ✉[email](grosheff.ivan@gmail.com)
